@@ -4,6 +4,12 @@ A seguinte análise tem como objetivo explorar os dados da empresa de logística
 
 Esse projeto faz parte do curso de Análise de Dados da EBAC.
 
+![hubs](https://github.com/jpfreire0/dados-logistica/blob/main/hubs.png?raw=true)
+
+![regions1](https://github.com/jpfreire0/dados-logistica/blob/main/regions1.png?raw=true)
+
+![regions2](https://github.com/jpfreire0/dados-logistica/blob/main/regions2.png?raw=true)
+
 ### Insights obtidos:
 
 - As áreas 0 e 2 atendem regiões mais remotas, enquanto a região 1 se concentra na parte central;
